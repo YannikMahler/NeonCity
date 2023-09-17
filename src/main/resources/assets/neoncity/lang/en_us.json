@@ -1,0 +1,15 @@
+{
+
+  "itemgroup.neon": "NeonCity",
+
+  "item.neoncity.infected_totem": "Infected Totem",
+
+  "block.neoncity.white_neon_lamp": "White Neon Lamp",
+  "block.neoncity.yellow_neon_lamp": "Yellow Neon Lamp",
+  "block.neoncity.pink_neon_lamp": "Pink Neon Lamp",
+  "block.neoncity.orange_neon_lamp": "Orange Neon Lamp",
+  "block.neoncity.magenta_neon_lamp": "Magenta Neon Lamp",
+  "block.neoncity.green_neon_lamp": "Green Neon Lamp",
+  "block.neoncity.blue_neon_lamp": "Blue Neon Lamp",
+  "block.neoncity.red_neon_lamp": "Red Neon Lamp"
+}
