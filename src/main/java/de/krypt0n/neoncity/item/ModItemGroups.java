@@ -15,15 +15,26 @@ public class ModItemGroups {
             new Identifier(NeonCity.MOD_ID, "neon"),
             FabricItemGroup.builder().displayName(Text.translatable("itemgroup.neon"))
                     .icon(() -> new ItemStack(ModItems.INFECTED_TOTEM)).entries((displayContext, entries) -> {
+                        //1st Row
+                        entries.add(ModBlocks.BLUE_NEON_LAMP);
+                        entries.add(ModBlocks.GREEN_NEON_LAMP);
+                        entries.add(ModBlocks.MAGENTA_NEON_LAMP);
+                        entries.add(ModBlocks.ORANGE_NEON_LAMP);
+                        entries.add(ModBlocks.PINK_NEON_LAMP);
+                        entries.add(ModBlocks.RED_NEON_LAMP);
                         entries.add(ModBlocks.WHITE_NEON_LAMP);
                         entries.add(ModBlocks.YELLOW_NEON_LAMP);
-                        entries.add(ModBlocks.PINK_NEON_LAMP);
-                        entries.add(ModBlocks.ORANGE_NEON_LAMP);
-                        entries.add(ModBlocks.MAGENTA_NEON_LAMP);
-                        entries.add(ModBlocks.GREEN_NEON_LAMP);
-                        entries.add(ModBlocks.BLUE_NEON_LAMP);
-                        entries.add(ModBlocks.RED_NEON_LAMP);
                         entries.add(ModItems.INFECTED_TOTEM);
+                        //2nd Row
+                        entries.add(ModBlocks.BLUE_ROD);
+                        entries.add(ModBlocks.GREEN_ROD);
+                        entries.add(ModBlocks.MAGENTA_ROD);
+                        entries.add(ModBlocks.ORANGE_ROD);
+                        entries.add(ModBlocks.PINK_ROD);
+                        entries.add(ModBlocks.RED_ROD);
+                        entries.add(ModBlocks.WHITE_ROD);
+                        entries.add(ModBlocks.YELLOW_ROD);
+
                     }).build());
 
     public static void registerItemGroups() {

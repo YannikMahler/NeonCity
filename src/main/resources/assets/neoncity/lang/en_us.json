@@ -11,5 +11,14 @@
   "block.neoncity.magenta_neon_lamp": "Magenta Neon Lamp",
   "block.neoncity.green_neon_lamp": "Green Neon Lamp",
   "block.neoncity.blue_neon_lamp": "Blue Neon Lamp",
-  "block.neoncity.red_neon_lamp": "Red Neon Lamp"
+  "block.neoncity.red_neon_lamp": "Red Neon Lamp",
+
+  "block.neoncity.blue_rod": "Blue Rod",
+  "block.neoncity.green_rod": "Green Rod",
+  "block.neoncity.magenta_rod": "Magenta Rod",
+  "block.neoncity.orange_rod": "Orange Rod",
+  "block.neoncity.pink_rod": "Pink Rod",
+  "block.neoncity.red_rod": "Red Rod",
+  "block.neoncity.white_rod": "White Rod",
+  "block.neoncity.yellow_rod": "Yellow Rod"
 }
