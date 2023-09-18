@@ -11,10 +11,10 @@ import net.minecraft.registry.Registry;
 import net.minecraft.util.Identifier;
 
 public class ModItems {
-    public static final Item INFECTED_TOTEM = registerItem("infected_totem", new Item(new FabricItemSettings()));
+    public static final Item Logo = registerItem("logo", new Item(new FabricItemSettings()));
 
     private static void addItemsToIngredientTabItemGroup(FabricItemGroupEntries entries) {
-        entries.add(INFECTED_TOTEM);
+        entries.add(Logo);
     }
 
     private static Item registerItem(String name, Item item) {

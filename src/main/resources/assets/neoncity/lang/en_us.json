@@ -2,7 +2,7 @@
 
   "itemgroup.neon": "NeonCity",
 
-  "item.neoncity.infected_totem": "Infected Totem",
+  "item.neoncity.logo": "Logo",
 
   "block.neoncity.white_neon_lamp": "White Neon Lamp",
   "block.neoncity.yellow_neon_lamp": "Yellow Neon Lamp",
@@ -11,14 +11,27 @@
   "block.neoncity.magenta_neon_lamp": "Magenta Neon Lamp",
   "block.neoncity.green_neon_lamp": "Green Neon Lamp",
   "block.neoncity.blue_neon_lamp": "Blue Neon Lamp",
+  "block.neoncity.dark_blue_neon_lamp": "Dark Blue Neon Lamp",
   "block.neoncity.red_neon_lamp": "Red Neon Lamp",
 
   "block.neoncity.blue_rod": "Blue Rod",
+  "block.neoncity.dark_blue_rod": "Dark Blue Rod",
   "block.neoncity.green_rod": "Green Rod",
   "block.neoncity.magenta_rod": "Magenta Rod",
   "block.neoncity.orange_rod": "Orange Rod",
   "block.neoncity.pink_rod": "Pink Rod",
   "block.neoncity.red_rod": "Red Rod",
   "block.neoncity.white_rod": "White Rod",
-  "block.neoncity.yellow_rod": "Yellow Rod"
+  "block.neoncity.yellow_rod": "Yellow Rod",
+
+  "block.neoncity.blue_button": "Blue Button",
+  "block.neoncity.dark_blue_button": "Dark Blue Button",
+  "block.neoncity.green_button": "Green Button",
+  "block.neoncity.magenta_button": "Magenta Button",
+  "block.neoncity.orange_button": "Orange Button",
+  "block.neoncity.pink_button": "Pink Button",
+  "block.neoncity.red_button": "Red Button",
+  "block.neoncity.white_button": "White Button",
+  "block.neoncity.yellow_button": "Yellow Button"
+
 }

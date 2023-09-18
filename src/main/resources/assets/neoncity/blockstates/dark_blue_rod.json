@@ -1,31 +1,30 @@
 {
   "variants": {
     "facing=down": {
-      "model": "neoncity:block/orange_rod",
+      "model": "neoncity:block/dark_blue_rod",
       "x": 180
     },
     "facing=east": {
-      "model": "neoncity:block/orange_rod",
+      "model": "neoncity:block/dark_blue_rod",
       "x": 90,
       "y": 90
     },
     "facing=north": {
-      "model": "neoncity:block/orange_rod",
+      "model": "neoncity:block/dark_blue_rod",
       "x": 90
     },
     "facing=south": {
-      "model": "neoncity:block/orange_rod",
+      "model": "neoncity:block/dark_blue_rod",
       "x": 90,
       "y": 180
     },
     "facing=up": {
-      "model": "neoncity:block/orange_rod"
+      "model": "neoncity:block/dark_blue_rod"
     },
     "facing=west": {
-      "model": "neoncity:block/orange_rod",
+      "model": "neoncity:block/dark_blue_rod",
       "x": 90,
       "y": 270
     }
   }
-}
 }
