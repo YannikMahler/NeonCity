@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/button",
+  "textures": {
+    "texture": "neoncity:block/white_neon_lamp"
+  }
+}

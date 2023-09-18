@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "neoncity:block/magenta_neon_lamp"
+  }
+}
